@@ -8,7 +8,6 @@ const saatSayac = () => {
   saat.innerHTML = `<h1>${hour}.${minute} <sup>${second}</sup></h1>`;
 };
 
-
 const day= () => {
 let günler=["Pazartesi","Salı","Çarşamba","Perşembe","Cuma","Cumartesi","Pazar"]
 let aylar =["Ocak", "Şubat", "Mart", "Nisan", "Mayıs", "Haziran", "Temmuz", "Ağustos","Eylül" ,"Ekim", "Kasım","Aralık"]
