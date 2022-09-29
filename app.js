@@ -19,5 +19,5 @@ tarih.innerHTML=`<p>${gün} <span>${aylar[ay]}</span> ${yil}</p>
 <p>${günler[günadi-1]}</p>`
 };
 
-setInterval(saatSayac, 1000);
+setInterval(saatSayac, 100);
 setInterval(day,1000)
